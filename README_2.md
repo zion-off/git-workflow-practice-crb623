@@ -1,3 +1,3 @@
-### Link to an article or web site that I find interesting related to software development/engineering:
+# Software Development/Engineering Article Link:
 
-### What I find intresting about the article:
+# What I Find Intresting about this Article:
