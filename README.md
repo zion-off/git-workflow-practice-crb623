@@ -1,5 +1,5 @@
 # Article: [OpenAI makes a ChatGPT-like tool called Codex that can write software. Here's why Codex won't replace developers and will instead create more demand for their skills.
-]
+
 ## Software Development/Engineering Article Link:
 [Article Link](https://www.businessinsider.com/chatgpt-openai-codex-developer-jobs-2023-2?utm_source=copy-link&utm_medium=referral&utm_content=topbar)
 
